@@ -31,3 +31,9 @@ It's a high-level, interpreted programming language that can be used on the clie
 ## Other resource to learn
 
 https://javascript.info/
+
+## Typescript
+
+### Random String
+
+https://pilcrow.vercel.app/blog/random-values-typescript
