@@ -2,6 +2,10 @@
 
 https://learnxinyminutes.com/docs/javascript/
 
+## Cheatsheet
+
+https://github.com/LeCoupa/awesome-cheatsheets/blob/master/languages/javascript.js
+
 ## Current course
 
 [2023] Brad Traversy - Modern JavaScript From The Beginning 2.0
