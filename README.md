@@ -36,6 +36,9 @@ It's a high-level, interpreted programming language that can be used on the clie
 
 https://javascript.info/
 
+## Spread Operator
+https://blog.stackademic.com/spread-operator-in-javascript-for-every-developer-c6e79ac032ac
+
 ## Typescript
 
 ### Random String
